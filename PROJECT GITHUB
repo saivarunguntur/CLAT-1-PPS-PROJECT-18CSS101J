@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main(){
+int favourite_number,first_number,differenece;
+scanf("%d %d %d",&favourite_number,&difference,&difference,&first_number);
+if((difference-favorite_number)%first_number==0)
+printf("YES");
+else
+printf("NO");
+return 0;
+}
